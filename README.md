@@ -1,1 +1,6 @@
 # blueberry-yield-prediction-kaggle
+Wild blueberries are a type of small, dark-blue fruit that grows on low-lying shrubs in regions with acidic soil and a cool climate. They are known for their high antioxidant content and are used in a variety of food products, including baked goods, smoothies, and jams.
+
+The features in this dataset provide information about the environmental conditions that can affect the yield of wild blueberries. The clone size of the blueberry plants, as well as the density of honeybees, bumblebees, Andrena bees, and Osmia bees in the field, can all impact the pollination and fruit set of the plants. The temperature range during the bloom season is also an important factor, with both the upper and lower band daily air temperature affecting plant growth and development. In addition, the amount of rainfall during the bloom season can impact fruit yield.
+
+By building a machine learning model that takes these features into account, we can predict the yield of wild blueberries in different regions and under different environmental conditions. This can help farmers make more informed decisions about when to plant, harvest, and market their crops, as well as identify factors that may be limiting the yield in certain regions.
